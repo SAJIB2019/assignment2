@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+	background-image: url(../img/A.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container {
+    width: 500px;
+    margin: 5% auto;
+    background:rgba(0,0,0,0.5);
+    border-radius: 25px;
+}
+.account {
+	padding: 20px; 
+}
+
+.account h4 {
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+.frm-one {
+	width: 90%;
+	padding: 8px 20px;
+	margin: 0 auto;
+	margin-bottom: 10px;	
+}
+
+.account img {
+	width: 150px;
+	margin: 0 auto;
+	display: block;
+}
+
+.frm-two {
+    background-color: #30af829e;
+    color: white;
+    padding: 10px 15px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+}

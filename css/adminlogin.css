@@ -1,0 +1,46 @@
+* {
+	margin: 0px;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+	background-image: url(../img/B.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container-two {
+    width: 450px;
+    margin: 10% auto;
+    background:rgba(0,0,0,0.5);
+    border-radius: 25px;
+}
+.account-two {
+	padding: 20px;
+}
+
+.account-two img {
+	width: 150px;
+	margin: 0 auto;
+	display: block;	
+}
+
+.account-two h3 {
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+.form-one {
+	width: 90%;
+	padding: 8px 20px;
+	margin: 0 auto;
+	margin-bottom: 10px;	
+}
+.form-two {
+    background-color: #e04e1d9e;
+    color: white;
+    padding: 10px 15px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+}
